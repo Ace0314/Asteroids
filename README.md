@@ -1,2 +1,5 @@
 # Asteroids
-BootdotDev guided project.
+
+## Description
+
+<p>BootdotDev guided project.</p>
